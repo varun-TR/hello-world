@@ -7,5 +7,5 @@ Just a new repository.
  pizza
  fish chips
  burger
- 
  frech fries
+ beer
